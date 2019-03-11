@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Taller de Git</title>
-    <link>/categories/</link>
+    <link>http://carlogilmar.me/dummy_blog/categories/</link>
     <description>Recent content in Categories on Taller de Git</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://carlogilmar.me/dummy_blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>/categories/development/</link>
+      <link>http://carlogilmar.me/dummy_blog/categories/development/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/development/</guid>
+      <guid>http://carlogilmar.me/dummy_blog/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>/categories/golang/</link>
+      <link>http://carlogilmar.me/dummy_blog/categories/golang/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/golang/</guid>
+      <guid>http://carlogilmar.me/dummy_blog/categories/golang/</guid>
       <description></description>
     </item>
     
